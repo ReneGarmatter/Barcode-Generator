@@ -1,7 +1,7 @@
 #include <stdio.h>  
 #include <stdlib.h> 
 #include <string.h> 
-#include "livraria.c"
+#include "lib.c"
 
 int main(){
     char nome_arquivo[257]; // Array para armazenar o nome do arquivo PBM
